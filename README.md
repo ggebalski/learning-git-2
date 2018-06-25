@@ -1,1 +1,1 @@
-# learning-git-2
+https://ggebalski.github.io/learning-git-2/
