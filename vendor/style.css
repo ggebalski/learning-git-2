@@ -1,0 +1,9 @@
+header { text-align: center; background-color: green; }
+
+main { text-align: center; }
+
+main p { width: 20%; margin: 0 auto; }
+
+span { font-size: 20px; }
+
+.space { margin-top: 4%; }
